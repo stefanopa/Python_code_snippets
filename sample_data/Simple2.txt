@@ -1,0 +1,7 @@
+Comune;Lista;Voti
+Milano; PD; 10
+Milano; PD; 15
+Milano; UDC;20
+Roma; PD; 10
+Roma; UDC;20
+Roma; FI; 40
